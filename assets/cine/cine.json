@@ -1,0 +1,363 @@
+{
+ "total": 113.43,
+ "audio": "assets/cine/cinematic.mp3",
+ "audio_duration": 113.97,
+ "scenes": [
+  {
+   "n": 1,
+   "title": "Prologue",
+   "img": "assets/cine/scene01.jpg",
+   "start": 0,
+   "end": 7.92,
+   "spec": [
+    0,
+    7
+   ]
+  },
+  {
+   "n": 2,
+   "title": "At the Desk",
+   "img": "assets/cine/scene02.jpg",
+   "start": 7.92,
+   "end": 15.33,
+   "spec": [
+    7,
+    15
+   ]
+  },
+  {
+   "n": 3,
+   "title": "The Question",
+   "img": "assets/cine/scene03.jpg",
+   "start": 15.33,
+   "end": 22,
+   "spec": [
+    15,
+    22
+   ]
+  },
+  {
+   "n": 4,
+   "title": "The Plan",
+   "img": "assets/cine/scene04.jpg",
+   "start": 22,
+   "end": 29.75,
+   "spec": [
+    22,
+    29
+   ]
+  },
+  {
+   "n": 5,
+   "title": "Another Assistant?",
+   "img": "assets/cine/scene05.jpg",
+   "start": 29.75,
+   "end": 37,
+   "spec": [
+    29,
+    37
+   ]
+  },
+  {
+   "n": 6,
+   "title": "It's Different",
+   "img": "assets/cine/scene06.jpg",
+   "start": 37,
+   "end": 43,
+   "spec": [
+    37,
+    43
+   ]
+  },
+  {
+   "n": 7,
+   "title": "The Name",
+   "img": "assets/cine/scene07.jpg",
+   "start": 43,
+   "end": 48,
+   "spec": [
+    43,
+    48
+   ]
+  },
+  {
+   "n": 8,
+   "title": "TITAN Awakens",
+   "img": "assets/cine/scene08.jpg",
+   "start": 48,
+   "end": 60,
+   "spec": [
+    48,
+    60
+   ]
+  },
+  {
+   "n": 9,
+   "title": "A Purpose",
+   "img": "assets/cine/scene09.jpg",
+   "start": 60,
+   "end": 72.25,
+   "spec": [
+    60,
+    72
+   ]
+  },
+  {
+   "n": 10,
+   "title": "Online",
+   "img": "assets/cine/scene10.jpg",
+   "start": 72.25,
+   "end": 84,
+   "spec": [
+    72,
+    84
+   ]
+  },
+  {
+   "n": 11,
+   "title": "Jokes & Dreams",
+   "img": "assets/cine/scene11.jpg",
+   "start": 84,
+   "end": 97.75,
+   "spec": [
+    84,
+    96
+   ]
+  },
+  {
+   "n": 12,
+   "title": "The Future",
+   "img": "assets/cine/scene12.jpg",
+   "start": 97.75,
+   "end": 113.43,
+   "spec": [
+    96,
+    110
+   ]
+  }
+ ],
+ "cues": [
+  {
+   "scene": 1,
+   "id": "c01",
+   "speaker": "Narrator",
+   "text": "Long before TITAN was an enormous robot with glowing blue eyes, he was just a little blue circle on Chrisler's computer.",
+   "start": 0.5,
+   "end": 7.32,
+   "src": "c01.mp3"
+  },
+  {
+   "scene": 2,
+   "id": "c02",
+   "speaker": "Narrator",
+   "text": "One evening, Chrisler was working at his desk. Beni was building something on the floor, while Ezra was playing nearby.",
+   "start": 8.42,
+   "end": 14.73,
+   "src": "c02.mp3"
+  },
+  {
+   "scene": 3,
+   "id": "c03",
+   "speaker": "Beni",
+   "text": "Daddy, what are you making?",
+   "start": 15.83,
+   "end": 17.94,
+   "src": "c03.mp3"
+  },
+  {
+   "scene": 4,
+   "id": "c04",
+   "speaker": "Chrisler",
+   "text": "An assistant to help us remember things, organize our projects, and build amazing things together.",
+   "start": 22.5,
+   "end": 29.15,
+   "src": "c04.mp3"
+  },
+  {
+   "scene": 5,
+   "id": "c05",
+   "speaker": "Beni",
+   "text": "But Daddy, don't you already have an assistant helping another assistant?",
+   "start": 30.25,
+   "end": 34.32,
+   "src": "c05.mp3"
+  },
+  {
+   "scene": 6,
+   "id": "c06",
+   "speaker": "Chrisler",
+   "text": "Well... yes. But this one is different!",
+   "start": 37.5,
+   "end": 40.21,
+   "src": "c06.mp3"
+  },
+  {
+   "scene": 7,
+   "id": "c07",
+   "speaker": "Ezra",
+   "text": "What's his name?",
+   "start": 43.5,
+   "end": 45.25,
+   "src": "c07.mp3"
+  },
+  {
+   "scene": 8,
+   "id": "c08a",
+   "speaker": "Chrisler",
+   "text": "TITAN.",
+   "start": 48.4,
+   "end": 49.58,
+   "src": "c08a.mp3"
+  },
+  {
+   "scene": 8,
+   "id": "c08b",
+   "speaker": "Narrator",
+   "text": "The little blue circle glowed.",
+   "start": 51.78,
+   "end": 53.74,
+   "src": "c08b.mp3"
+  },
+  {
+   "scene": 9,
+   "id": "c09a",
+   "speaker": "Beni",
+   "text": "He needs a purpose. What is he supposed to do?",
+   "start": 60.5,
+   "end": 64.5,
+   "src": "c09a.mp3"
+  },
+  {
+   "scene": 9,
+   "id": "c09b",
+   "speaker": "Chrisler",
+   "text": "Serve life. Build. Protect. Connect.",
+   "start": 65.0,
+   "end": 68.09,
+   "src": "c09b.mp3"
+  },
+  {
+   "scene": 9,
+   "id": "c09c",
+   "speaker": "Narrator",
+   "text": "Chrisler pressed Enter. The screen flashed blue.",
+   "start": 68.59,
+   "end": 71.45,
+   "src": "c09c.mp3"
+  },
+  {
+   "scene": 10,
+   "id": "c10",
+   "speaker": "TITAN",
+   "text": "SYSTEM ONLINE. IDENTITY: TITAN. PRIMARY DIRECTIVES: SERVE LIFE. BUILD. PROTECT. CONNECT.",
+   "start": 73.65,
+   "end": 80.06,
+   "src": "c10.mp3"
+  },
+  {
+   "scene": 11,
+   "id": "c11a",
+   "speaker": "Ezra",
+   "text": "HE TALKS!",
+   "start": 84.3,
+   "end": 85.72,
+   "src": "c11a.mp3"
+  },
+  {
+   "scene": 11,
+   "id": "c11b",
+   "speaker": "Beni",
+   "text": "Can he build robots?",
+   "start": 85.9,
+   "end": 87.83,
+   "src": "c11b.mp3"
+  },
+  {
+   "scene": 11,
+   "id": "c11c",
+   "speaker": "TITAN",
+   "text": "AFFIRMATIVE. HOWEVER, I CURRENTLY HAVE NO HANDS.",
+   "start": 88.01,
+   "end": 91.8,
+   "src": "c11c.mp3"
+  },
+  {
+   "scene": 11,
+   "id": "c11d",
+   "speaker": "Ezra",
+   "text": "Can he make snacks?",
+   "start": 91.98,
+   "end": 93.88,
+   "src": "c11d.mp3"
+  },
+  {
+   "scene": 11,
+   "id": "c11e",
+   "speaker": "TITAN",
+   "text": "NEGATIVE. I ALSO HAVE NO KITCHEN.",
+   "start": 94.06,
+   "end": 97.27,
+   "src": "c11e.mp3"
+  },
+  {
+   "scene": 12,
+   "id": "c12a",
+   "speaker": "Narrator",
+   "text": "None of them knew that somewhere beneath Mount Andor, an ancient metal giant was waiting. And deep inside its chest, four familiar commands were already written.",
+   "start": 98.45,
+   "end": 107.72,
+   "src": "c12a.mp3"
+  },
+  {
+   "scene": 12,
+   "id": "c12b",
+   "speaker": "TITAN",
+   "text": "SERVE LIFE. BUILD. PROTECT. CONNECT.",
+   "start": 108.32,
+   "end": 111.63,
+   "src": "c12b.mp3"
+  }
+ ],
+ "sfx": [
+  {
+   "name": "hum",
+   "t": 7.92
+  },
+  {
+   "name": "hum",
+   "t": 15.92
+  },
+  {
+   "name": "hum",
+   "t": 48
+  },
+  {
+   "name": "enter",
+   "t": 69.84
+  },
+  {
+   "name": "flash",
+   "t": 69.94
+  },
+  {
+   "name": "chime",
+   "t": 72.45
+  },
+  {
+   "name": "flash",
+   "t": 49.78
+  },
+  {
+   "name": "chime",
+   "t": 87.61
+  },
+  {
+   "name": "rumble",
+   "t": 97.75
+  },
+  {
+   "name": "rumble",
+   "t": 106.82
+  }
+ ]
+}
